@@ -19,3 +19,6 @@ sentiments of the users regarding their products / services and use it for bette
 - Pre-process Data: Write MR job to pre-process the data
 - Classification of Data: Write Hive UDF for the classification of the data into positive / negative opinions
 - Print Data: Final stage would be to print the desired results with the number of good and bad tweets collected.
+
+### Architecture Diagram:
+![Screenshot](Architecture.png)
